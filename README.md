@@ -1,7 +1,7 @@
 Vim Stuff
 A collection of Vim resources and reference materials.
-Contents
 
+Contents
 Vim graphical cheat sheet.pdf - A visual reference guide for Vim commands and shortcuts
 
 About
